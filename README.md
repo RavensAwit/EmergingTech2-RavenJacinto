@@ -1,7 +1,7 @@
 # Hello CPE32S3
 <div align="center">
   <a href="https://raven-jacinto.io" target="_blank">
-    <img src="https://i.giphy.com/wwg1suUiTbCY8H8vIA.webp">
+    <img src=""C:\Users\tipqc\Desktop\giphy.gif"">
   </a>
 </div>
 
