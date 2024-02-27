@@ -1,19 +1,21 @@
-# Hello CPE32S3
-<div align="center">
+# Hello CPE32S3 
+<div align="right">
   <a href="https://raven-jacinto.io" target="_blank">
-    <img src="https://i.seadn.io/gae/WXxBdMz5M26O5QWkwTINGYTdGvWq3edErejzPRwm2Vgobln0v3GPKsjpvnA-yNTFQDIai6ztKdBuD1NiR92bA9tLBfTmv0aH-XysMAY?auto=format&dpr=1&w=1000">
+    <img width="500" height="350" src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif">
   </a>
+  <img alt="Coding" width="500" height="350" src="https://i.seadn.io/gae/WXxBdMz5M26O5QWkwTINGYTdGvWq3edErejzPRwm2Vgobln0v3GPKsjpvnA-yNTFQDIai6ztKdBuD1NiR92bA9tLBfTmv0aH-XysMAY?auto=format&dpr=1&w=1000">
 </div>
 
 <h1 align="center">Hi 👋, I'm Raven Charles Roy P. Jacinto</h1>
 <h3 align="center">A 3rd year student of BSCPE in Technological Institute of the Philippines, Quezon City</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQ4emFia20xamt2YWU3cnhvMG5ydmxudHFiODc3MXh4bG0xOWEwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" hegiht="50"
+src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQ4emFia20xamt2YWU3cnhvMG5ydmxudHFiODc3MXh4bG0xOWEwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 
 - 🔭 I’m currently working on **Emerging technologies 2**
 
-- 🌱 I’m currently learning **Data Science, Algorithms, Python Programming**
+- 🌱 I’m currently learning **Data Science, Algorithms, Python Programming, SQL**
 
 - 💬 Ask me about **Embedded Systems, IoT, Cisco Networking**
 
@@ -21,7 +23,7 @@
 
 - ⚡ Fun fact **Your brain is constantly eating itself.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
