@@ -1,7 +1,7 @@
 # Hello CPE32S3
 <div align="center">
   <a href="https://raven-jacinto.io" target="_blank">
-    <img src="https://media3.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47umktowo3m7wz6wo4n0bf3flzw3m1ddfkstwlt457&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="MasterHead">
+    <img src="[https://media3.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47umktowo3m7wz6wo4n0bf3flzw3m1ddfkstwlt457&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFrMjYxcHJycXNjenZ5NXU5c2hkNG1jajVxeXQ2Nm1kdGh3Y2t6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif)">
   </a>
 </div>
 
