@@ -1,9 +1,9 @@
 # Hello CPE32S3 
 <div align="right">
   <a href="https://raven-jacinto.io" target="_blank">
-    <img width="500" height="350" src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif">
+    <img width="450" height="350" src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif">
   </a>
-  <img alt="Coding" width="500" height="350" src="https://i.seadn.io/gae/WXxBdMz5M26O5QWkwTINGYTdGvWq3edErejzPRwm2Vgobln0v3GPKsjpvnA-yNTFQDIai6ztKdBuD1NiR92bA9tLBfTmv0aH-XysMAY?auto=format&dpr=1&w=1000">
+  <img alt="Coding" width="450" height="350" src="https://i.seadn.io/gae/WXxBdMz5M26O5QWkwTINGYTdGvWq3edErejzPRwm2Vgobln0v3GPKsjpvnA-yNTFQDIai6ztKdBuD1NiR92bA9tLBfTmv0aH-XysMAY?auto=format&dpr=1&w=1000">
 </div>
 
 <h1 align="center">Hi 👋, I'm Raven Charles Roy P. Jacinto</h1>
